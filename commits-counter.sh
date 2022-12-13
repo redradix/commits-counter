@@ -1,5 +1,9 @@
 #! /usr/bin/env bash
 
+# SPDX-FileCopyrightText: 2022 Redradix S.L. <info@redradix.com>
+#
+# SPDX-License-Identifier: Unlicense
+
 set -e
 
 REPOS=$(find . -type d -name ".git")

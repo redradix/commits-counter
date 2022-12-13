@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: commits-counter
+Upstream-Contact: roberto-red <roberto@redradix.com>
+Source: https://github.com/redradix/commits-counter.git
+
+Files: README.md
+Copyright: 2022 Redradix S.L. <info@redradix.com>
+License: CC0-1.0
