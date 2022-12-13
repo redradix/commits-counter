@@ -1,4 +1,4 @@
-#! /usr/bin/env bash
+#! /usr/bin/env sh
 
 # SPDX-FileCopyrightText: 2022 Redradix S.L. <info@redradix.com>
 #
